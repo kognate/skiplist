@@ -1,0 +1,4 @@
+pymongo
+Pillow
+boto3
+python-dotenv
