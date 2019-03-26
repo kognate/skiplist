@@ -13,6 +13,9 @@ door for a CDN to serve the images should there be a lot of them.
 
 # To Run The System
 
+You will need to have the aws cli setup and configured for an account you want to use. If you want to use
+a different profile than the default, you'll have to modify the Makefile to reflect that.
+
 You'll need to set the following environment variables:
 
 ```
